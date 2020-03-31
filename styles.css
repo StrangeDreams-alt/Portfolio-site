@@ -1,0 +1,55 @@
+
+
+body {
+    background-color: black;
+}
+
+.heading {
+    padding-left: 10px;
+    color: white;
+    font-size: 75px;
+    border: solid white 3px;
+    /*background-color: rgb(43, 42, 42);*/
+    background-image: url(./Images/Midnight\ City.jpg);
+}
+
+.author-img {
+    align-content: left;
+    rotate: left;
+    transform: rotate(270deg);
+    padding-left: 10px;
+    padding-right: 0%;
+    padding-bottom: 0%;
+    padding-top: 0%;
+    position: relative;
+    top: 200px;
+    bottom: 0px;
+    left: 0px;
+}
+
+.byline {
+    color: white;
+    align-content: left;
+    font-weight: 100;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    position: relative;
+    left: 130px;
+    top: 270px;
+    bottom: 0px;   
+}
+
+p {
+    padding-left: 10px;
+    color: white;
+    position: relative;
+    top: 20px;
+}
+
+button {
+    position: relative;
+    left: 5px;
+    padding-left: 7px;
+}
